@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2023-04-30T12:40:57.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="daJziRkuRcVSIAOwWmDq" version="21.2.3" type="device">
+  <diagram name="Страница 1" id="jr3ZRKgZNSwiqozvBQv5">
+    <mxGraphModel dx="1591" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="560" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-2" target="Hudz0_8ZMtJJJ-87j8zx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-2" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="50" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-3" target="Hudz0_8ZMtJJJ-87j8zx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-3" value="&lt;ul&gt;&lt;li&gt;Импорт всех необходимых модулей&lt;/li&gt;&lt;li&gt;Создание всех необходимых классов&lt;/li&gt;&lt;li&gt;Создание спрайтов&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="120" width="257.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-6" target="Hudz0_8ZMtJJJ-87j8zx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-6" value="Пока не нажат красный крестик&lt;br&gt;while True" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-8" target="Hudz0_8ZMtJJJ-87j8zx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-8" value="обнавление расположения всех спрайтов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="340" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-10" target="Hudz0_8ZMtJJJ-87j8zx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-10" target="Hudz0_8ZMtJJJ-87j8zx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-10" value="Если игрок не прогирал" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="430" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-13" value="&lt;ul&gt;&lt;li&gt;Отрисовка спрайтов&lt;/li&gt;&lt;li&gt;Обновление игрой сценны&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="317" y="555" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-16" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-17" value="Вывод надписи &quot;вы проиграли&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166.25" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-19" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-13" target="Hudz0_8ZMtJJJ-87j8zx-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="410" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="650" />
+              <mxPoint x="140" y="650" />
+              <mxPoint x="140" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-17" target="Hudz0_8ZMtJJJ-87j8zx-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="166" y="470" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="470" />
+              <mxPoint x="150" y="390" />
+              <mxPoint x="270" y="390" />
+              <mxPoint x="270" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hudz0_8ZMtJJJ-87j8zx-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="530" as="sourcePoint" />
+            <mxPoint x="414.9999999999998" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="260" />
+              <mxPoint x="580" y="670" />
+              <mxPoint x="415" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hudz0_8ZMtJJJ-87j8zx-27" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="700" width="55" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
